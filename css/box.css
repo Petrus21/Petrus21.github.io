@@ -1,0 +1,5 @@
+.box1 {
+width: 400px;
+padding: 50px;
+border: solid 20px black;
+box-sizing: border-box
