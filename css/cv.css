@@ -1,0 +1,19 @@
+.nimi {
+	position:relative; left:88px; top:-33px;
+}
+	
+.aika {
+	position:relative; top:-33px;
+}
+
+.taito {
+	font-size: 16px;
+	font-weight: 10;
+}
+
+.kieli {
+	position:relative; left:88px; top:-66px;
+}
+
+.harrastus {
+	position:relative; left:-88px;
